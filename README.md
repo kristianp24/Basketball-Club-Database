@@ -1,2 +1,2 @@
-# SQL 
-Creating a simple database and retrieving quries from it, using SQL language.
+
+An university project where I have created a database about a basketball club using SQL.
